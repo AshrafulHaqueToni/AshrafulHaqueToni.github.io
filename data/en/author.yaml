@@ -1,15 +1,15 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Ashraful Haque"
+nickname: "Tani"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  github: johndoe
-  linkedin: johndoe
+  email: "ashrafulhaquetoni@gmail.com"
+  phone: "+8801640690531"
+  github: https://github.com/AshrafulHaqueToni
+  linkedin: https://bd.linkedin.com/in/ashraful-haque-264133176
   researchgate: john-doe
 
 # some summary about what you do
